@@ -10,10 +10,10 @@ AI Development Assistant es una suite de herramientas basadas en IA para asistir
 
 ## Instalación
 
-1. Crear el entorno virtual y activar:
+1. Clona el repositorio:
    ```sh
-   python -m venv .venv
-   .\.venv\Scripts\activate
+   git clone <URL_DEL_REPOSITORIO>
+   cd <nombre_del_proyecto>
    ```
 2. Instala las dependencias:
    ```sh
