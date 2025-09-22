@@ -1,0 +1,31 @@
+# requirements.txt
+email-validator
+
+# Frameworks web
+fastapi
+uvicorn[standard]
+streamlit
+gradio
+
+# Utilidades y configuración
+pydantic
+python-dotenv
+requests
+plotly
+
+# Librerías de Machine Learning / IA
+numpy
+pandas
+scikit-learn
+google-generativeai
+openai
+anthropic
+
+# Herramientas de desarrollo
+jupyter
+notebook
+
+# Testing y calidad
+pytest
+black
+pylint
